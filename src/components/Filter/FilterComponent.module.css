@@ -1,0 +1,32 @@
+.header{
+    color: #848484;
+    text-align: left;
+    border-bottom: 2px solid #848484;
+    padding-bottom: 10px;
+    font-size: 24px;
+}
+
+.ddc{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.container{
+    width: 100%;
+    background-color: #000;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.filters{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.il:hover{
+    cursor: not-allowed;
+}

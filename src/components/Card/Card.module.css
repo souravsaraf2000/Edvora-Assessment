@@ -1,0 +1,57 @@
+.container{
+    background-color: #232323;
+    padding: 25px;
+    height: 250px;
+    width: 400px;
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.imageContainer{
+    width: 30%;
+    height: 50%;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.image{
+    width: 100%;
+    height: 100%;
+}
+.info{
+    display: flex;
+}
+.productInfo{
+    text-align: left;
+    margin-left: 15px;
+}
+.pname{
+    color: #e2e2e2;
+    margin-bottom: 10px;
+}
+
+.bname{
+    color: #828282;
+    margin-bottom: 10px;
+}
+
+.price{
+    color: #e2e2e2;
+}
+
+.location{
+    color: #828282;
+}
+
+.moreInfo{
+    text-align: left;
+    margin-top: 15px;
+}
+.date{
+    color: #828282;
+}
+.des{
+    color: #828282;
+}
+.upperDiv{
+    display: flex;
+    justify-content: space-between;
+}
